@@ -1,56 +1,85 @@
-# Eyob Simachew
+<!-- GITHUB HEADER WIDGET -->
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Eyob-simachew&data=followers,repositories,stars,commits&theme=radical)](https://github.com/Eyob-simachew)
 
-![Eyob Simachew Banner](https://via.placeholder.com/1200x300?text=Eyob+Simachew+-+Developer)
+<!-- MOTTO -->
+<h3 align="center"><strong>Let's Code. Build & FUN 🚀</strong></h3>
 
-## 👨‍💻 Junior Full-Stack Web and Mobile Developer | Passionate Learner | Tech Enthusiast
+<!-- SOCIAL CONTACT BADGES -->
+<div align="left">
 
-Hello, I'm **Eyob Simachew**, a self-taught developer from **Ethiopia**. I’m passionate about coding, building personal projects, and continuously improving my skills. I started my journey in development through online courses and reading documentation, and I love experimenting with new technologies and frameworks. When I'm not coding, I'm diving into my side projects or exploring new ideas to improve as a developer.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/eyob-simachew)
+[![Gmail](https://img.shields.io/badge/Gmail-%20Send_Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff&style=for-the-badge)](mailto:eyobsimachew4@gmail.com)
+![](https://komarev.com/ghpvc/?username=Eyob-simachew&color=brightgreen&style=for-the-badge)
+[![Telegram](https://img.shields.io/badge/Telegram-%231877F2.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/eyobsimachew)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/eyobsimachew)
 
-### 🌱 **What I Do**
-
-I primarily focus on **full-stack web development** and **mobile app development**. I'm passionate about creating solutions that help developers and users alike. Right now, I'm working on **two passion projects**: 
-
-- **Telegram Analytics Platform**: A tool to analyze and track Telegram data.
-- **Develevate**: An app designed to help developers stay productive and organized in their learning journey.
-
-### 🧑‍💻 **Technologies I Work With**
-
-I love learning and experimenting with new technologies, which is why I believe in being a **generic developer** rather than being limited to one specific tool or framework. Here's a list of technologies and tools I’m familiar with:
-
-### Frontend Technologies:
-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) 
-- ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-- ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-- ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-
-### Backend Technologies:
-- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-- ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-- ![Hono.js](https://img.shields.io/badge/Hono.js-FF4772?style=flat-square&logo=hono&logoColor=white)
-- ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-
-### Mobile Development:
-- ![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)
-
-### Database & Version Control:
-- ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-- ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-- ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-- ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-
-### 🚀 **Notable Projects**
-
-- **[Develevate](https://github.com/Eyob-smax/develevate)**: A productivity app for developers to track their learning journey, stay organized, and maximize productivity.
-- **[Podcast App](https://github.com/Eyob-smax/SpaceCast-podcastApp)**: A simple and responsive podcast app that helps me listen to my favorite podcasts on the go.
-
-### 🌍 **In My Spare Time**
-
-When I’m not coding, you can find me:
-
-- Traveling and exploring new places 🌍
-- Watching movies 🎥
-- Continuously learning and growing as a developer 📚
+</div>
 
 ---
 
-I’m always open to collaborating and learning new things. Feel free to explore my repositories and connect with me if you’re interested in building something cool together! 🚀
+### 👋 Hello! I'm **Eyob Simachew**
+
+A passionate **full-stack JavaScript developer** from Ethiopia. I build intuitive UIs and productive tools using modern tech like React, Tailwind, Node.js, and more. I believe in building with **clarity, fun, and functionality**. 
+
+💻 I’m currently developing a **multi-task app** for coders.  
+🌱 Always learning **React, Node.js, and design systems**.  
+📬 Feel free to connect & collaborate!
+
+---
+
+## 🚀 My Tech Toolbox
+
+### 🧠 Programming Languages
+<table>
+  <tr>
+    <td><img alt="JavaScript" height="48" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg"></td>
+    <td><img alt="TypeScript" height="48" src="https://cdn.worldvectorlogo.com/logos/typescript.svg"></td>
+    <td><img alt="Python" height="48" src="https://cdn.worldvectorlogo.com/logos/python-5.svg"></td>
+    <td><img alt="C++" height="48" src="https://cdn.worldvectorlogo.com/logos/c.svg"></td>
+  </tr>
+</table>
+
+### 🧩 Frameworks, Tools & Libraries
+<table>
+  <tr>
+    <td><img alt="React" height="48" src="https://cdn.worldvectorlogo.com/logos/react-2.svg"></td>
+    <td><img alt="Next.js" height="48" src="https://www.datocms-assets.com/75941/1657707878-nextjs_logo.png"></td>
+    <td><img alt="Tailwind CSS" height="48" src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg"></td>
+    <td><img alt="Redux" height="48" src="https://cdn.worldvectorlogo.com/logos/redux.svg"></td>
+    <td><img alt="Node.js" height="48" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg"></td>
+    <td><img alt="Express" height="48" src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/20/express-js.png"></td>
+    <td><img alt="MongoDB" height="48" src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg"></td>
+    <td><img alt="MySQL" height="48" src="https://brandslogos.com/wp-content/uploads/thumbs/mysql-logo-vector-1.svg"></td>
+  </tr>
+  <tr>
+    <td><img alt="ShadCN" height="48" src="https://pbs.twimg.com/media/FxoIFVgagAE-gqB?format=png&name=4096x4096"></td>
+    <td><img alt="Socket.io" height="48" src="https://cdn.worldvectorlogo.com/logos/socket-io.svg"></td>
+    <td><img alt="Telegraf" height="48" src="https://telegraf.js.org/media/logo.svg"></td>
+    <td><img alt="PostgreSQL" height="48" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"></td>
+    <td><img alt="Expo" height="48" src="https://cdn.worldvectorlogo.com/logos/expo-1.svg"></td>
+    <td><img alt="React Native" height="48" src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg"></td>
+    <td><img alt="Electron" height="48" src="https://cdn.worldvectorlogo.com/logos/electron-1.svg"></td>
+  </tr>
+</table>
+
+---
+
+## 📊 GitHub Stats
+
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Eyob-simachew&theme=radical&show_icons=true&count_private=true&hide=issues"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eyob-simachew&theme=radical&layout=compact"/>
+    </td>
+  </tr>
+</table>
+
+---
+
+<!-- Footer or Additional Notes -->
+<!-- 💬 Ask me about tech, teaching, projects, or collaboration -->
+<!-- ⚡ Fun Fact: I love building multitool apps that reflect my developer journey -->
+
