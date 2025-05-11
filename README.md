@@ -17,22 +17,22 @@ I primarily focus on **full-stack web development** and **mobile app development
 
 I love learning and experimenting with new technologies, which is why I believe in being a **generic developer** rather than being limited to one specific tool or framework. Here's a list of technologies and tools I’m familiar with:
 
-#### Frontend Technologies:
+### Frontend Technologies:
 - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) 
 - ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 - ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 - ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
-#### Backend Technologies:
+### Backend Technologies:
 - ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 - ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 - ![Hono.js](https://img.shields.io/badge/Hono.js-FF4772?style=flat-square&logo=hono&logoColor=white)
 - ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 
-#### Mobile Development:
+### Mobile Development:
 - ![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)
 
-#### Database & Version Control:
+### Database & Version Control:
 - ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 - ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 - ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -41,7 +41,7 @@ I love learning and experimenting with new technologies, which is why I believe 
 ### 🚀 **Notable Projects**
 
 - **[Develevate](https://github.com/Eyob-smax/develevate)**: A productivity app for developers to track their learning journey, stay organized, and maximize productivity.
-- **[Podcast App](https://github.com/Eyob-smax/podcast-app)**: A simple and responsive podcast app that helps me listen to my favorite podcasts on the go.
+- **[Podcast App](https://github.com/Eyob-smax/SpaceCast-podcastApp)**: A simple and responsive podcast app that helps me listen to my favorite podcasts on the go.
 
 ### 🌍 **In My Spare Time**
 
