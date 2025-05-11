@@ -67,8 +67,8 @@
   <p style="font-family: 'Inter', sans-serif; color: #4a5568;">Developer productivity app for optimized learning</p>
   <img src="https://via.placeholder.com/500x300/f0f9ff/1e293b?text=Develevate+Demo" style="width: 100%; border-radius: 6px; margin: 10px 0;">
   <div style="display: flex; gap: 10px;">
-    <a href="#"><img src="https://img.shields.io/badge/-Live_Demo-4F46E5?style=for-the-badge&logo=vercel&logoColor=white"></a>
-    <a href="#"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+    <a href="https://develevate-production.up.railway.com"><img src="https://img.shields.io/badge/-Live_Demo-4F46E5?style=for-the-badge&logo=vercel&logoColor=white"></a>
+    <a href="https://github.com/Eyob-smax/develevate"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
   </div>
 </div>
 
@@ -77,8 +77,8 @@
   <p style="font-family: 'Inter', sans-serif; color: #4a5568;">Personal podcast player for code enthusiasts</p>
   <img src="https://via.placeholder.com/500x300/f0f9ff/1e293b?text=Podcast+App" style="width: 100%; border-radius: 6px; margin: 10px 0;">
   <div style="display: flex; gap: 10px;">
-    <a href="#"><img src="https://img.shields.io/badge/-Live_Demo-4F46E5?style=for-the-badge&logo=vercel&logoColor=white"></a>
-    <a href="#"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+    <a href="https://spacecast.onrender.com"><img src="https://img.shields.io/badge/-Live_Demo-4F46E5?style=for-the-badge&logo=vercel&logoColor=white"></a>
+    <a href="https://github.com/Eyob-smax/SpaceCast-podcastApp"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
   </div>
 </div>
 
