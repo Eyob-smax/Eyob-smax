@@ -1,23 +1,5 @@
 <div align="center">
-  <style>
-  /* Embedded CSS for GitHub README compatibility */
-  @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap');
   
-  h1, h2, h3 {
-    color: #2d3748;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  }
-  
-  p, li {
-    font-family: 'Inter', sans-serif;
-    color: #4a5568;
-  }
-  
-  a {
-    color: #4f46e5;
-    text-decoration: none;
-  }
-</style>
   <img src="https://via.placeholder.com/1280x400/1e293b/ffffff?text=Eyob+Simachew+Full-Stack+Dev" style="width: 100%; border-radius: 8px;" alt="Header Banner">
   
   <h1 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #2d3748; margin-top: 20px;">👋 Hey There! I'm Eyob Simachew</h1>
