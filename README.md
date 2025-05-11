@@ -4,8 +4,7 @@
   <h1 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #2d3748; margin-top: 20px;">👋 Hey There! I'm Eyob Simachew</h1>
   
   <p style="font-family: 'Inter', sans-serif; color: #4a5568; max-width: 800px; margin: 0 auto; line-height: 1.6;">
-    A <strong>self-taught Full-Stack Developer</strong> from Ethiopia passionate about building web & mobile apps. 
-    When I'm not coding, you'll find me traveling 🧳 or binge-watching movies 🎬.
+    Hello, I'm <strong>Eyob Simachew, a self-taught developer</strong> from Ethiopia. I’m passionate about coding, building personal projects, and continuously improving my skills. I started my journey in development through online courses and reading documentation, and I love experimenting with new technologies and frameworks. When I'm not coding, I'm diving into my side projects or exploring new ideas to improve as a developer.
   </p>
 </div>
 
@@ -40,6 +39,7 @@
       <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
       <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
       <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+      <img src="https://img.shields.io/badge/Hono.js-FF6600?style=for-the-badge&logo=hono&logoColor=white">
     </td>
   </tr>
   <tr>
@@ -51,6 +51,7 @@
       <strong>Tools</strong><br>
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
       <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
     </td>
   </tr>
 </table>
@@ -87,9 +88,9 @@
 ## 📬 **Let's Connect**
 <div align="center" style="margin: 30px 0;">
   <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-  <a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"></a>
+  <a href="https://x.com/eyoba_smax"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+  <a href="https://github.com/Eyob-smax"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://t.me/alnova19"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"></a>
 </div>
 
 <style>
