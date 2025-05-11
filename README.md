@@ -1,107 +1,113 @@
-<!-- GitHub Profile Widget -->
 <div align="center">
+  <img src="https://via.placeholder.com/1280x400/1e293b/ffffff?text=Eyob+Simachew+Full-Stack+Dev" style="width: 100%; border-radius: 8px;" alt="Header Banner">
   
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=yeabnoah&data=followers,repositories,stars,commits&theme=viridescent)](https://github.com/yeabnoah)
-
-</div>
-
----
-
-<!-- Contact Links -->
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yeabsra-ashebir-tech-nerd-8a3a80267/)
-[![Gmail](https://img.shields.io/badge/Gmail-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff&style=for-the-badge)](mailto:yeabnoah5@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-%231877F2.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/technerd345)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/TechNerd556)
-![](https://komarev.com/ghpvc/?username=yeabnoah&color=brightgreen&style=for-the-badge)
-
-</div>
-
----
-
-<h3 align="center">👋 Hello, I'm Yeabsra</h3>
-
-<div align="center">
-
-I'm a self-taught **web & mobile developer** from Ethiopia 🇪🇹 who loves turning ideas into real digital experiences.  
-I'm detail-oriented, passionate about solving problems, and always up for learning new things.  
-Let's connect and build awesome things together!
-
-</div>
-
----
-
-## 🚀 Technologies I Work With
-
-### 🖥 Programming Languages
-
-<div align="center">
+  <h1 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #2d3748; margin-top: 20px;">👋 Hey There! I'm Eyob Simachew</h1>
   
-<table>
-  <tr>
-    <td><img alt="TypeScript" height=48 src="https://cdn.worldvectorlogo.com/logos/typescript.svg" /></td>
-    <td><img alt="JavaScript" height=48 src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" /></td>
-    <td><img alt="Python" height=48 src="https://cdn.worldvectorlogo.com/logos/python-5.svg" /></td>
-    <td><img alt="Go" height=48 src="https://cdn.worldvectorlogo.com/logos/golang-1.svg" /></td>
-  </tr>
-</table>
-</div>
-
-### 🧰 Frameworks, Tools, and Technologies
-
-<details>
-<summary>Click to expand tech stack 👇</summary>
-
-<div align="center">
-
-<table>
-  <tr>
-    <td><img alt="Next.js" height=48 src="https://www.datocms-assets.com/75941/1657707878-nextjs_logo.png" /></td>
-    <td><img alt="React" height=48 src="https://cdn.worldvectorlogo.com/logos/react-2.svg" /></td>
-    <td><img alt="Expo" height=48 src="https://cdn.worldvectorlogo.com/logos/expo-1.svg" /></td>
-    <td><img alt="React Native" height=48 src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" /></td>
-    <td><img alt="Tailwind CSS" height=48 src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" /></td>
-    <td><img alt="Redux" height=48 src="https://cdn.worldvectorlogo.com/logos/redux.svg" /></td>
-  </tr>
-  <tr>
-    <td><img alt="Electron" height=48 src="https://cdn.worldvectorlogo.com/logos/electron-1.svg" /></td>
-    <td><img alt="Telegraf" height=48 src="https://telegraf.js.org/media/logo.svg" /></td>
-    <td><img alt="shadcn/ui" height=48 src="https://pbs.twimg.com/media/FxoIFVgagAE-gqB?format=png&name=4096x4096" /></td>
-    <td><img alt="Hono" height=48 src="https://seeklogo.com/images/H/hono-logo-85A5D1206D-seeklogo.com.png" /></td>
-    <td><img alt="Express" height=48 src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/20/express-js.png" /></td>
-  </tr>
-  <tr>
-    <td><img alt="MongoDB" height=48 src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" /></td>
-    <td><img alt="MySQL" height=48 src="https://brandslogos.com/wp-content/uploads/thumbs/mysql-logo-vector-1.svg" /></td>
-    <td><img alt="PostgreSQL" height=48 src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" /></td>
-    <td><img alt="GraphQL" height=48 src="https://cdn.worldvectorlogo.com/logos/graphql-logo-2.svg" /></td>
-    <td><img alt="Socket.io" height=48 src="https://cdn.worldvectorlogo.com/logos/socket-io.svg" /></td>
-  </tr>
-</table>
-
-</div>
-
-</details>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=yeabnoah&theme=radical&show_icons=true&count_private=true&hide=issues" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeabnoah&theme=radical&layout=compact" /></td>
-  </tr>
-</table>
-
+  <p style="font-family: 'Inter', sans-serif; color: #4a5568; max-width: 800px; margin: 0 auto; line-height: 1.6;">
+    A <strong>self-taught Full-Stack Developer</strong> from Ethiopia passionate about building web & mobile apps. 
+    When I'm not coding, you'll find me traveling 🧳 or binge-watching movies 🎬.
+  </p>
 </div>
 
 ---
 
-<!-- Footer Note -->
-<p align="center">
-  <i>✨ Let's Code. Build. And Have Fun! ✨</i>
-</p>
+## 🚀 **About Me**
+<div style="font-family: 'Inter', sans-serif; color: #4a5568; line-height: 1.6; background: #f8fafc; padding: 20px; border-radius: 8px; margin: 20px 0;">
+  <ul style="padding-left: 20px;">
+    <li>💻 <strong>Self-taught coder</strong> through docs, courses, and relentless side projects</li>
+    <li>🚀 <strong>Currently building:</strong> Telegram analytics platform & dev productivity tools</li>
+    <li>🌍 <strong>Beyond code:</strong> Travel enthusiast & film buff</li>
+  </ul>
+</div>
+
+---
+
+## 🛠️ **Tech Stack**
+<div align="center" style="margin: 30px 0;">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,express,java,spring,reactnative,git,vscode&perline=6" alt="Tech Stack Icons" style="height: 50px; margin: 10px 0;">
+</div>
+
+<table align="center" style="width: 100%; border-collapse: collapse; font-family: 'Inter', sans-serif;">
+  <tr>
+    <td align="center" style="padding: 15px; border: 1px solid #e2e8f0; background: #f8fafc;">
+      <strong>Frontend</strong><br>
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+      <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
+      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+    </td>
+    <td align="center" style="padding: 15px; border: 1px solid #e2e8f0; background: #f8fafc;">
+      <strong>Backend</strong><br>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+      <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
+      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="padding: 15px; border: 1px solid #e2e8f0;">
+      <strong>Mobile</strong><br>
+      <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+    </td>
+    <td align="center" style="padding: 15px; border: 1px solid #e2e8f0;">
+      <strong>Tools</strong><br>
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+      <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🏆 **Featured Projects**
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 30px 0;">
+
+<div style="flex: 1; min-width: 300px; background: #ffffff; border-radius: 10px; padding: 20px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+  <h3 style="font-family: 'Segoe UI', sans-serif; color: #2d3748;">🎯 Develevate</h3>
+  <p style="font-family: 'Inter', sans-serif; color: #4a5568;">Developer productivity app for optimized learning</p>
+  <img src="https://via.placeholder.com/500x300/f0f9ff/1e293b?text=Develevate+Demo" style="width: 100%; border-radius: 6px; margin: 10px 0;">
+  <div style="display: flex; gap: 10px;">
+    <a href="#"><img src="https://img.shields.io/badge/-Live_Demo-4F46E5?style=for-the-badge&logo=vercel&logoColor=white"></a>
+    <a href="#"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  </div>
+</div>
+
+<div style="flex: 1; min-width: 300px; background: #ffffff; border-radius: 10px; padding: 20px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+  <h3 style="font-family: 'Segoe UI', sans-serif; color: #2d3748;">🎙️ Podcast App</h3>
+  <p style="font-family: 'Inter', sans-serif; color: #4a5568;">Personal podcast player for code enthusiasts</p>
+  <img src="https://via.placeholder.com/500x300/f0f9ff/1e293b?text=Podcast+App" style="width: 100%; border-radius: 6px; margin: 10px 0;">
+  <div style="display: flex; gap: 10px;">
+    <a href="#"><img src="https://img.shields.io/badge/-Live_Demo-4F46E5?style=for-the-badge&logo=vercel&logoColor=white"></a>
+    <a href="#"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  </div>
+</div>
+
+</div>
+
+---
+
+## 📬 **Let's Connect**
+<div align="center" style="margin: 30px 0;">
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"></a>
+</div>
+
+<style>
+  /* Embedded CSS for GitHub README compatibility */
+  @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap');
+  
+  h1, h2, h3 {
+    color: #2d3748;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+  
+  p, li {
+    font-family: 'Inter', sans-serif;
+    color: #4a5568;
+  }
+  
+  a {
+    color: #4f46e5;
+    text-decoration: none;
+  }
+</style>
